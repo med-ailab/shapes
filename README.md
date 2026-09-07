@@ -1,3 +1,36 @@
+> **Med AI Lab · Innopolis University**  
+> Code and data released alongside a peer-reviewed publication.  
+> Original repository by [Danis Alukaev](https://github.com/DanisAlukaev): <https://github.com/DanisAlukaev/shapes>
+
+---
+
+Synthetic dataset of primitive shapes with generated textual descriptions, used to evaluate cross-modal concept bottleneck models.
+
+### Paper
+
+- **Cross-Modal Conceptualization in Bottleneck Models**  
+  D. Alukaev, S. Kiselev, I. Pershin, B. Ibragimov, V. Ivanov, A. Kornaev, I. Titov  
+  *EMNLP 2023, main track* · [link](https://aclanthology.org/2023.emnlp-main.318/)
+
+### About the lab
+
+The **Med AI Lab** at Innopolis University works on medical AI in which the clinician is part
+of the system rather than its user: eye tracking of radiologists, gaze as a supervision signal
+for medical imaging, electronic health records, and the modelling of human attention in
+language models.
+
+[Website](https://ilya-pershin.com/lab/) · [Publications](https://ilya-pershin.com/publications/) · [All code](https://github.com/med-ailab) · i.pershin@innopolis.ru
+
+### License
+
+The original repository does not carry a licence file, so no reuse rights are granted
+by default. Before reusing this code, contact the author or the lab.
+
+---
+
+*Everything below is the original README from [DanisAlukaev/shapes](https://github.com/DanisAlukaev/shapes), left unchanged.*
+
+---
 <div align="center" height="130px">
   <img src="./docs/images/logotype.png" alt="Logotype"/><br/>
   <p></p>
